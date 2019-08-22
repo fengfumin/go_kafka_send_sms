@@ -8,6 +8,6 @@ func main() {
 
 	p:=kafka_sms_producer.NewKafkaMsgProducer([]string{"10.0.0.11:9092"})
 
-	p.SendMsgToTopic("sms",`{"phone":"13916895160","content":"90909"}`)
+	p.SendMsgToTopic("sms",`{"phone":"电话号码","content":"90909"}`)
 
 }

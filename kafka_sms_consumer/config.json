@@ -1,6 +1,6 @@
 {
-  "keyId": "LTAISILVw7pPAYik",
-  "keySecret": "cnG6BWT2bKmPKMa7KLUIW6yY4Z4rol",
+  "keyId": "阿里云的",
+  "keySecret": "阿里云的",
   "signName": "maple",
   "templateCode": "SMS_170610031",
   "kafka-brokers": "10.0.0.11:9092",
